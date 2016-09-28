@@ -1,0 +1,44 @@
+
+isbn = International Standard Book Number, attached to title by publisher
+rcn = control number, unique number attached to title by our system when reading ISBN barcode (N* number if no barcode)
+date = date the item has been seen by the system - either because the item was issued, renewed or discharged
+issuedate = date the item was *last issued* to either a library member who borrowed it or to a transit ticket when the item is on its way to another library
+branch = library at which item was processed
+item = unique number allocated to each copy on our system
+author = name of the main author of the work
+title = main title as on title page or equivalent
+stock area (manually added column) = adult fiction, adult non fiction, junior fiction, junior non fiction
+
+
+
+Top 5 most borrowed titles for adult fiction in March 2016
+1) NYPD Red / James Patterson
+2) A spool of blue thread / Anne Tyler
+3) Kate Mosse / The taxidermist’s daughter
+4) Thin air / Ann Cleeves
+5) Peppercorn street / Anna Jacobs
+
+
+Top 5 most borrowed titles for adult non-fiction in March 2016
+1) The eternally packed suitcase / Lisa Matthews - MISSING from spreadsheet
+2) The tearaway / Dean Williams
+3) Foolproof cooking / Mary Berry
+4) Life after you / Lucie Brownlee
+5) Narrow dog to Wigan Pier / Terry Darlington
+
+ 
+Top 5 most borrowed titles for junior fiction in March 2016
+1) Ten in the bed / Penny Dale
+2) Walking with witches / Lynn Huggins-Cooper
+3) I love you, Blue Kangaroo! / Emma Chichester-Clark
+4) This is the bear / Sarah Hayes - MISSING from spreadsheet
+5) Dogger / Shirley Hughes
+
+
+Top 5 most issued junior non-fiction March 2016
+1) The gift / Carol Ann Duffy
+2) Masks / Ruth Thomson
+3) Children's history of Northumberland / Keith Gregson
+4) Plants / Honor Head - MISSING from spreadsheet
+5) Isaac Newton	 / Paul Mason - MISSING from spreadsheet
+
