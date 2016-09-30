@@ -1,0 +1,9 @@
+Floor Space of Libraries at 31 March 2007
+
+Fields:
+is_now_closed
+gross_floor_space_
+m2 - (metres squared)
+net_floor_space_
+m2 - (metres squared)
+rent - (£ per annum)
