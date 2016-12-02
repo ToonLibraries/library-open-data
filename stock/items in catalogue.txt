@@ -1,0 +1,13 @@
+List of items in library catalogue
+
+item = unique number allocated to each copy on our system
+rcn = control number, unique number attached to title by our system when reading ISBN barcode (N* number if no barcode)
+catego = category allocated to each item when added tor our system
+text = catego column for humans to read
+homebr = current library or service the item is allocated to
+name = homebr column for humans to read
+added = date item was added to our system
+issues current branch = number of times the item has been borrowed at the current library or service it is allocated to
+issues previous branch = number of times the item has been borrowed at the previous library or service it was allocated to
+renewals current branch = number of times the loan to a borrower has been extended, at the current library or service it is allocated to
+renewals previous branch = number of times the loan to a borrower has been extended, at the previous library or service it was allocated to

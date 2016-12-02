@@ -1,0 +1,4 @@
+Energy consumption at City Library
+
+Gas and electricity: Units are in Kilowatt-hours (kWh)
+Water: Units are in Cubic Metres
