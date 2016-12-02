@@ -1,4 +1,4 @@
-Items in catalogue
+List of items in library catalogue
 
 item = unique number allocated to each copy on our system
 rcn = control number, unique number attached to title by our system when reading ISBN barcode (N* number if no barcode)
