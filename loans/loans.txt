@@ -1,0 +1,5 @@
+An issue or loan is any item from the library catalogue issued to a member
+
+Blank means no data available
+
+Number of copies is the total number of copies of this title (all editions included) in stock at Newcastle Libraries
