@@ -1,3 +1,4 @@
 Number of people who have entered a library building
+Update frequency: monthly
 
 Blank means no data available
