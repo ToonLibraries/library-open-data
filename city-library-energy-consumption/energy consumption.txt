@@ -1,4 +1,5 @@
 Energy consumption at City Library
+Update frequency: annually
 
 Gas and electricity: Units are in Kilowatt-hours (kWh)
 Water: Units are in Cubic Metres
