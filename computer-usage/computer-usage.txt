@@ -1,3 +1,4 @@
 Usage given as a percentage of the total available time public access computers can be used (based on the library's opening hours).
+Update frequency: monthly
 
 Blank means no data available
