@@ -13,10 +13,3 @@ publisher = name of the publisher
 firstcopydate = date the first copy was added. Note: field rarely used.
 acpy = number of copies in stock for that ISBN
 
-
-date = date the item has been seen by the system - either because the item was issued, renewed or discharged
-issuedate = date the item was *last issued* to either a library member who borrowed it or to a transit ticket when the item is on its way to another library
-branch = library at which item was processed
-item = unique number allocated to each copy on our system
-author = main author of the work
-title = main title as on title page or equivalent
