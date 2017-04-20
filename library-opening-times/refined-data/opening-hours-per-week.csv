@@ -1,21 +1,21 @@
-venue,2010,2011,2012,2013,2014,2015
-Blakelaw Library,20,20,16,16,16,16
-City Library,70,70,69,69,69,69
-Cruddas Park Library,20,20,20,20,25,29
-Denton Burn Library,46,46,43,43,14,18.5
-Dinnington Library,12,12,12,12,closed,closed
-East End Library,58,58,58,58,58,58
-Fawdon Library,41,41,20,20,20,18
-Fenham Library,46,46,43,43,43,38.5
-Gosforth Library,60.5,60.5,60.5,60.5,60.5,60.5
-High Heaton Library,43,43,43,43,14,19.5
-Jesmond Library,46,46,43,43,closed,closed
-Kenton Library,54,54,50.5,50.5,50.5,47.5
-Mobile,25,25,closed,closed,closed,closed
-Moorside Library,20,20,18,18,closed,closed
-Newbiggin Hall Library,38.8,38.8,34.5,34.5,34.5,34.5
-Newburn Library,38.8,38.8,38.8,38.8,35.8,37.8
-Outer West Library,58,58,54,54,54,46
-Walker Library,46,46,46,46,43,43
-West End Library,54,54,54,54,54,54
-Total for all authority-run libraries,797.1,797.1,723.3,723.3,591.3,589.8
+venue,2010,2011,2012,2013,2014,2015,2016,2017
+Blakelaw Library,20,20,16,16,16,16,17,18
+City Library,70,70,69,69,69,69,69,54
+Cruddas Park Library,20,20,20,20,25,29,25,26
+Denton Burn Library,46,46,43,43,14,18.5,18.5,18
+Dinnington Library,12,12,12,12,closed,closed,closed,closed
+East End Library,58,58,58,58,58,58,58,23
+Fawdon Library,41,41,20,20,20,18,closed,closed
+Fenham Library,46,46,43,43,43,38.5,41.5,17.5
+Gosforth Library,60.5,60.5,60.5,60.5,60.5,60.5,60.5,23
+High Heaton Library,43,43,43,43,14,19.5,19.5,18
+Jesmond Library,46,46,43,43,closed,closed,closed,closed
+Kenton Library,54,54,50.5,50.5,50.5,47.5,51.5,23
+Mobile,25,25,closed,closed,closed,closed,closed,closed
+Moorside Library,20,20,18,18,closed,closed,closed,closed
+Newbiggin Hall Library,38.8,38.8,34.5,34.5,34.5,34.5,,
+Newburn Library,38.8,38.8,38.8,38.8,35.8,37.8,32.5,18.5
+Outer West Library,58,58,54,54,54,54,54,23
+Walker Library,46,46,46,46,43,43,43,23
+West End Library,54,54,54,54,54,54,54,23
+Total for all authority-run libraries,797.1,797.1,723.3,723.3,591.3,589.8,544,308
