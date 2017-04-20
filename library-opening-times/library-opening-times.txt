@@ -1,23 +1,13 @@
+Refined data
+Opening hours per week: number of hours each library is open at 31st March of each year, starting in 2010.
+All libraries opening times: time each library opens and closes each day of the week, starting in 2004.
+
+
 Notes
-
-
-
 Benwell reopened as West End Library 17/11/08
-
-
 Gosforth closed in temporary accommodation 02/12/07 reopened 17/12/07
-
-
 High Heaton closed 15/09/07 reopened as mobile 01/10/07 reopened as new library 22/09/08
-
-
 Dinnington Library closed 01/07/13 and transferred to community control
-
-
 Jesmond Library closed 01/07/13 and transferred to community control
-
-
 Moorside Library closed 01/07/13
-
-
 Fawdon Library closed 01/04/15 and transferred to community control	
