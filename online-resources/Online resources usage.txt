@@ -43,11 +43,12 @@ Universal Skills : learn basic computer skills and how to use Universal Job Matc
 Newcastle Library App (devices) : number of devices the app is on {2013 - present}
 Newcastle Library App (launches) : number of times the app has been used {2013 - present}
 
-OneClick : e-audiobooks collection {May 2015 - present} Number of items borrowed
-Overdrive (e-books) {2011 - May 2016} Number of items borrowed (figures only from April 2015)
-Overdrive (e-audiobooks) {2011 - May 2016} Number of items borrowed (figures only from April 2015)
-Bolinda : e-audiobooks collection {2012 - February 2016} Number of items borrowed (figures only from April 2015)
-Zinio : digital magazines {May 2015 - present} Number of magazines downloaded (figures only from January 2016)
 Bibliotheca Cloud Library : e-books and e-audiobooks {February 2016 - present} Number of items borrowed
+Bolinda : e-audiobooks collection {2012 - February 2016} Number of items borrowed (figures only from April 2015)
+ComicsPlus : e-comic books {March 2017 - present} Number of items borrowed
+OneClick : e-audiobooks collection {May 2015 - present} Number of items borrowed
+Overdrive (e-audiobooks) {2011 - May 2016} Number of items borrowed (figures only from April 2015)
+Overdrive (e-books) {2011 - May 2016} Number of items borrowed (figures only from April 2015)
 Public Library Online : e-books collection {April 2016 - present} Number of items borrowed
+Zinio : digital magazines {May 2015 - present} Number of magazines downloaded (figures only from January 2016)
 
