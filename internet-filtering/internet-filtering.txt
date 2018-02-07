@@ -1,0 +1,1 @@
+Newcastle Libraries provide citizens with access to the Internet. On public computers Internet is filtered which means access to some websites is blocked - either because of legal requirements, concerns over the security of the Council IT systems, Council policy or to safeguard vulnerable individuals. This data set lists the categories of websites blocked at a certain date.
