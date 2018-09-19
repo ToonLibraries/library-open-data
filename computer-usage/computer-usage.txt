@@ -2,3 +2,4 @@ Usage given as a percentage of the total available time public access computers 
 Update frequency: monthly
 
 Blank means no data available
+BIPC is the Business & IP Centre based within the City Library.
