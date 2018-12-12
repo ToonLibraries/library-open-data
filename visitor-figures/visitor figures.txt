@@ -2,3 +2,5 @@ Number of people who have entered a library building
 Update frequency: monthly
 
 Blank means no data available
+
+Fenham Library: from end of August 2018 to early December 2018 Fenham Library underwent some building work. This caused the library to be closed a few days per month. The opening times were changed during that period as well.
