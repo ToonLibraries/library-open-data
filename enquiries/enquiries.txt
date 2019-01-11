@@ -1,7 +1,10 @@
-Enquiries is any question asked of library staff by a member of the public
-Update frequency: monthly
+Data set update frequency: monthly
+
+Until 8 April 2018 an enquiry was defined as any question asked of library staff by a member of the public.
+What we record as an enquiry was first redefined in a narrower way on 9 April 2018, then reviewed several times over the following months. From 1 September 2018 only questions regarding the following are counted as enquiries: assistance with choosing books; assistance with photocopying and printing; catalogue enquiry; check in, check out and renewal; CSC closed; e-books/magazines and other online resources; event enquiry; fax enquiries; heritage enquiry; family history; heritage organisations; local history maps; local history newspapers; heritage online resources support; local history photographs; heritage stack/strongroom; holds and ILL; Home Delivery Service; Internet Taster Session; IT support; job search; lost and found property; membership enquiries; opening times enquiry; PC bookings and PC additional time requests; reading groups; room bookings; sales; stack enquiry; Summer Reading Challenge; tourist information/local directions; Universal Credit support booking; view Electoral Register; visa application support; business enquiry; IP enquiry; email enquiries to Business & IP Centre Newcastle; social media enquiries to Business & IP Centre Newcastle; email enquiries to Newcastle Libraries; social media enquiries to Newcastle Libraries; signposting to partners within the building; building control; complaints; FOI; Council website issues; adult social care; arts and culture; benefits; childrens social care; council tax; crisis support; democratic services; economic development; education and skills services; electoral registration; Envirocall; finance; garden waste; hospitality services; HR and payroll; income and recovery; insurance services; job shop; legal services; leisure services; planning and development; private rented service; property services; registration services; regulatory services; strategic housing; street wardens; Your Homes Newcastle.
 
 Mobile Library (decommissioned April 2012)
 BIPC is the Business & IP Centre based at City Library; data from April 2013
 
 Blank means no data available
+
