@@ -4,4 +4,4 @@ Update frequency: annually
 Gas and electricity: Units are in Kilowatt-hours (kWh)
 Water: Units are in Cubic Metres
 
-Gas consumption January 2015: not data available due to a change of meter.
+Gas consumption January 2015: no data available due to a change of meter.
