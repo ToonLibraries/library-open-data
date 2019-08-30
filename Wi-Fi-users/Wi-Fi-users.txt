@@ -1,4 +1,5 @@
 Monthly number of unique users who connected to Newcastle Libraries Wi-Fi from April 2019 to present.
 
+No login is required for the Wi-Fi; users do not need to be library members to connect to the network.
 There is no data for Walker Library as it does not have its own Wi-Fi; citizens visiting the library use the Walker Activity Dome Wi-Fi network.
 Only partial data is available for April 2019.
